@@ -1,0 +1,11 @@
+.DS_Store
+
+# Fotos que não aparecem no site ficam fora do repositório público.
+# Foto do grupo no Vitalitá: só sobe depois da autorização de imagem.
+assets/img/vitalita-1.jpg
+# Fotos extras da Julia, ainda sem uso no site.
+assets/img/julia-4.jpg
+assets/img/julia-5.jpg
+assets/img/julia-6.jpg
+assets/img/julia-7.jpg
+assets/img/julia-8.jpg
